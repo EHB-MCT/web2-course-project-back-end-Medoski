@@ -16,10 +16,10 @@ This project includes a login system and bookmark system as seen in the lessons.
 
 ## Practical links
 
-- Github frontend repository :
-- Github backend repository : 
-- Github pages : 
-- Heroku API : 
+- Github frontend repository : https://github.com/EHB-MCT/web2-course-project-front-end-Medoski
+- Github backend repository : https://github.com/EHB-MCT/web2-course-project-back-end-Medoski
+- Github pages : https://ehb-mct.github.io/web2-course-project-front-end-Medoski/
+- Render API : https://web2-course-project-medoski.onrender.com
 - Adobe XD Wireframe : 
 - Adobe XD Design : 
 ## Login credentials
@@ -37,6 +37,8 @@ This project includes a login system and bookmark system as seen in the lessons.
 - Learned about e.target : https://developer.mozilla.org/en-US/docs/Web/API/Event/target
 - Learned about window.location in : https://www.w3schools.com/js/js_window_location.asp
 - Get parameter from the URL : https://easyautotagging.com/javascript-get-url-parameter/
+- Use if AI (chatGpt/Co-Pilot)
+- Help of friends (Couldnt have done it without them)
 
 
 
@@ -46,4 +48,6 @@ This project includes a login system and bookmark system as seen in the lessons.
 - Package used for password crypting : https://www.npmjs.com/package/bcryptjs
 - Package installed to have HTTP Request info in terminal : https://www.npmjs.com/package/morgan
 - Use of express : Followed tutorials of teacher
-- Use of MongoDB : Followed tutorials of teacher 
+- Use of MongoDB : Followed tutorials of teacher
+- Use if AI (chatGpt/Co-Pilot)
+- Help of friends (Couldnt have done it without them)
